@@ -39,10 +39,11 @@ namespace RegistroEstudiante
             
             int edadFutura = edad + 5; 
             bool puedeInscribir = materiasInscritas < MAX_MATERIAS;
-                    
-            Console.WriteLine("-------------------------");
-            Console.WriteLine("\nRegistro del Estudiante");
-            Console.WriteLine("-------------------------");
+
+            Console.WriteLine("");
+            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine("\n        Registro del Estudiante        ");
+            Console.WriteLine("-------------------------------------------");
             Console.WriteLine("");
             Console.WriteLine($"Bienvenido(a), {nombre}");
             Console.WriteLine("");
@@ -60,9 +61,9 @@ namespace RegistroEstudiante
             Console.WriteLine($"Máximo permitido: {MAX_MATERIAS}");
             Console.WriteLine($"Puede inscribir más materias: {(puedeInscribir ? "Si" : "No")}");
             Console.WriteLine("");
-            Console.WriteLine("--------------------------------");
-            Console.WriteLine("Gracias por utilizar el sistema.");
-            Console.WriteLine("--------------------------------");
+            Console.WriteLine("--------------------------------------------");
+            Console.WriteLine("      Gracias por utilizar el sistema.        ");
+            Console.WriteLine("--------------------------------------------");
             Console.ReadKey();
         }
     }
