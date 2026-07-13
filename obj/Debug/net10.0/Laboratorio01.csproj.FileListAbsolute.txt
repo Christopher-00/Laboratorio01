@@ -12,3 +12,4 @@ C:\Users\crist\source\repos\Laboratorio01\obj\Debug\net10.0\refint\Laboratorio01
 C:\Users\crist\source\repos\Laboratorio01\obj\Debug\net10.0\Laboratorio01.pdb
 C:\Users\crist\source\repos\Laboratorio01\obj\Debug\net10.0\Laboratorio01.genruntimeconfig.cache
 C:\Users\crist\source\repos\Laboratorio01\obj\Debug\net10.0\ref\Laboratorio01.dll
+C:\Users\crist\source\repos\Laboratorio01\obj\Debug\net10.0\Laboratorio01.sourcelink.json
