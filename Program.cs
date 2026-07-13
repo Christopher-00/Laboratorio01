@@ -36,10 +36,10 @@ namespace RegistroEstudiante
             Console.Write("Número de materias inscritas:");
             int materiasInscritas = int.Parse(Console.ReadLine());
 
-
+            
             int edadFutura = edad + 5; 
             bool puedeInscribir = materiasInscritas < MAX_MATERIAS;
-
+                    
             Console.WriteLine("-------------------------");
             Console.WriteLine("\nREGISTRO DEL ESTUDIANTE");
             Console.WriteLine("-------------------------");
