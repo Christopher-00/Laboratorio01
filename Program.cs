@@ -41,7 +41,7 @@ namespace RegistroEstudiante
             bool puedeInscribir = materiasInscritas < MAX_MATERIAS;
                     
             Console.WriteLine("-------------------------");
-            Console.WriteLine("\nREGISTRO DEL ESTUDIANTE");
+            Console.WriteLine("\nRegistro del Estudiante");
             Console.WriteLine("-------------------------");
             Console.WriteLine("");
             Console.WriteLine($"Bienvenido(a), {nombre}");
